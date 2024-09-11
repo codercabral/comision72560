@@ -17,3 +17,9 @@ header{
     height: 200px;
     background-color: crimson;
 }
+main{
+    background-color: orange;
+}
+footer{
+    background-color: cornflowerblue;
+}
